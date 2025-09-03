@@ -10,8 +10,10 @@ title: Home
 # Upcoming SWE | Masters in Comp-Sci Student | Ex- Summer 2025 Intern in Goldman Sachs
 
 ## Education								       		
-- M.S., Comp-Sci	| The University of Texas at Arlington (_May 2026_)	 			        		
-- B.Tech., Comp-Sci | SASTRA University (_June 2024_)
+**Masters in Comp-Sci	| The University of Texas at Arlington (_May 2026_)** (GPA: 4.00/4.00)
+Relevant Coursework: Software Engineering II | Data Analysis & Modelling Techniques | Design and Analysis of Algorithm 
+**Bachelor of Technology in Comp-Sci | SASTRA University (_June 2024_)** (GPA: 4.00/4.00)
+Relevant Coursework: Software Engineering | Data warehouse & Data mining | Natural Language Processing | Cloud Computing	    
 
 ## Work Experience
 **Summer Engineer Analyst @ Goldman Sachs (_June 2025 - August 2025_)**
@@ -49,4 +51,7 @@ title: Home
 - Certifications: Stanford Machine Learning Certified, NPTEL Programming in Python Certified, NPTEL Data Mining Certified, Linkedin HTML Certified, Linkedin Programming Foundations: Fundamentals Certified
 
 ## Technical Skills 
-Python, C/C++, Java, R, Ruby, JavaScript, TypeScript, Go, Bash/Shell Scripting, REST APIs, GraphQL, Docker, AWS, Microsoft Azure, Jenkins, Kubernetes, MongoDB, MySQL, Spring Boot, React.js, Node.js, HTML5, Django, Flask, Ruby on Rails, Web Development, Algorithms & Data Structures, OOP, Database Management, SDLC, Version Control Systems, API Design & Integration, Software Architecture, Cross-Platform Development, Agile methodologies, Data Analysis, Machine Learning, Data Visualization, GCP, NoSQL, open source, TypeScript
+- Programming Languages: Python, C/C++, Java, R, Ruby, JavaScript, TypeScript, Go, Bash/Shell Scripting
+- Frameworks: Spring Boot, React.js, Node.js, HTML5, Django, Flask, Ruby on Rails
+- Tools & Platforms: REST APIs, GraphQL, Docker, AWS, Microsoft Azure, GCP, Jenkins, Kubernetes, MongoDB, MySQL, NoSQL, open source, Version Control Systems
+- Core Concepts: Web Development, Algorithms & Data Structures, OOP, Database Management, SDLC, API Design & Integration, Software Architecture, Cross-Platform Development, Agile methodologies, Data Analysis, Machine Learning, Data Visualization
