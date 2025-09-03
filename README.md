@@ -1,7 +1,5 @@
 # Upcoming SWE | Masters in Comp-Sci Student | Ex- Summer 2025 Intern in Goldman Sachs
 
-#### Technical Skills: Python, C/C++, Java, R, Ruby, JavaScript, TypeScript, Go, Bash/Shell Scripting, REST APIs, GraphQL, Docker, AWS, Microsoft Azure, Jenkins, Kubernetes, MongoDB, MySQL, Spring Boot, React.js, Node.js, HTML5, Django, Flask, Ruby on Rails, Web Development, Algorithms & Data Structures, OOP, Database Management, SDLC, Version Control Systems, API Design & Integration, Software Architecture, Cross-Platform Development, Agile methodologies, Data Analysis, Machine Learning, Data Visualization, GCP, NoSQL, open source, TypeScript
-
 ## Education								       		
 - M.S., Comp-Sci	| The University of Texas at Arlington (_May 2026_)	 			        		
 - B.Tech., Comp-Sci | SASTRA University (_June 2024_)
@@ -26,25 +24,28 @@
 
 
 ## Projects
-### Personal Finance Dashboard
+**Personal Finance Dashboard**
 
-Developed a full-stack Personal Finance Dashboard using React.js, Node.js, and MongoDB for real-time expense budgeting.
-Optimized performance through lazy loading, responsive design, and service workers, resulting in a 40% reduction in load times and improved user experience
+- Developed a full-stack Personal Finance Dashboard using React.js, Node.js, and MongoDB for real-time expense budgeting
+- Optimized performance through lazy loading, responsive design, and service workers, resulting in a 40% reduction in load times and improved user experience
 
-### Liver Disease Prediction
+**Liver Disease Prediction**
 
-Performed comprehensive data analysis using bivariate and multivariate techniques to uncover dependencies.
-Applied 3 feature selection methods—correlation, embedded, and filter methods—to refine the dataset and enhance model performance. 
-Implemented Logistic Regression, SVM, Gradient Boosting, and ANN, achieving a peak accuracy of 93.63% with the Random Forest algorithm by excluding the ‘gender’ feature.
+- Performed comprehensive data analysis using bivariate and multivariate techniques to uncover dependencies
+- Applied 3 feature selection methods—correlation, embedded, and filter methods—to refine the dataset and enhance model performance
+- Implemented Logistic Regression, SVM, Gradient Boosting, and ANN, achieving a peak accuracy of 93.63% with the Random Forest algorithm by excluding the ‘gender’ feature
 
-### Advanced Text Analysis for Fake News Detection
+**Advanced Text Analysis for Fake News Detection**
 
-Employed cross-validation to fine-tune hyperparameters and optimize model performance. 
-Utilized tokenization, stop-word removal, and stemming/lemmatization to preprocess text data effectively. 
-Extracted word frequency, n-grams, and TF-IDF (Term Frequency-Inverse Document Frequency) values from text data to represent articles numerically.
+- Employed cross-validation to fine-tune hyperparameters and optimize model performance
+- Utilized tokenization, stop-word removal, and stemming/lemmatization to preprocess text data effectively
+- Extracted word frequency, n-grams, and TF-IDF (Term Frequency-Inverse Document Frequency) values from text data to represent articles numerically
 
 ## Certifications & Achievements
 - Problem Winner of Hack-In-Hub 2023 Hackathon – Won first place in the Agriculture Domain of the 28-hour National Level Hackathon conducted by SSRIT, Chennai, by developing an IoT grain monitoring system with Arduino, DHT22 sensors, and a camera module for real-time humidity and color analysis, integrating Python for data processing and React Native for alert notifications, which optimized godown inventory management
 - Certifications: Stanford Machine Learning Certified, NPTEL Programming in Python Certified, NPTEL Data Mining Certified, Linkedin HTML Certified, Linkedin Programming Foundations: Fundamentals Certified
+
+## Technical Skills: 
+Python, C/C++, Java, R, Ruby, JavaScript, TypeScript, Go, Bash/Shell Scripting, REST APIs, GraphQL, Docker, AWS, Microsoft Azure, Jenkins, Kubernetes, MongoDB, MySQL, Spring Boot, React.js, Node.js, HTML5, Django, Flask, Ruby on Rails, Web Development, Algorithms & Data Structures, OOP, Database Management, SDLC, Version Control Systems, API Design & Integration, Software Architecture, Cross-Platform Development, Agile methodologies, Data Analysis, Machine Learning, Data Visualization, GCP, NoSQL, open source, TypeScript
 
 
