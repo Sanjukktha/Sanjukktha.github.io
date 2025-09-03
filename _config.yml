@@ -1,7 +1,11 @@
 title: Sanjukktha Senthil Kumar
-logo: /assets/img/headshot_circle.png
-#description: description haha
-#show_downloads: true
+description: Personal site and portfolio
+# use the official GitHub Pages Slate theme
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
   - jekyll-remote-theme
+
+# user sites should keep baseurl empty
+baseurl: ""
+# optional: keeps markdown tidy
+markdown: kramdown
