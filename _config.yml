@@ -1,9 +1,13 @@
 title: Sanjukktha Senthil Kumar
+logo: /assets/img/headshot_circle.png
 description: Personal site and portfolio
-# use the official GitHub Pages Minimal theme
-theme: jekyll-theme-minimal
 
-# user sites should keep baseurl empty
-baseurl: ""
-# optional: keeps markdown tidy
-markdown: kramdown
+# These are shown in the left sidebar (Minimal theme)
+show_downloads: false
+
+# Links you want displayed
+github_username:  Sanjukktha
+linkedin: https://www.linkedin.com/in/sanjukkthasenthilkumar/
+email: sanjukkthasenthilkumar@gmail.com
+
+theme: jekyll-theme-minimal
