@@ -1,7 +1,12 @@
 title: Sanjukktha Senthil Kumar
-description: >
-  Personal site and portfolio  
+description: Personal site and portfolio
 
 # These are shown in the left sidebar (Minimal theme)
 show_downloads: false
+
+# Links you want displayed
+github_username:  Sanjukktha
+linkedin: https://www.linkedin.com/in/sanjukkthasenthilkumar/
+email: sanjukkthasenthilkumar@gmail.com
+
 theme: jekyll-theme-minimal
